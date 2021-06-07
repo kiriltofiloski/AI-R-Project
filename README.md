@@ -1,2 +1,4 @@
 # AI-R-Project
-An Artificial Intelligence project implemented in R.
+This is a team project for the Artficial Intelligence course at the FRI faculty. 
+
+
